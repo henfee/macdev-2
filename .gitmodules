@@ -1,0 +1,6 @@
+[submodule "dotfiles"]
+	path = dotfiles
+	url = git@github.com-personal:rchamarthy/dotfiles.git
+[submodule "prezto"]
+	path = prezto
+	url = git@github.com-personal:rchamarthy/prezto.git

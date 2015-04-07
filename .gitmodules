@@ -4,3 +4,6 @@
 [submodule "prezto"]
 	path = prezto
 	url = git@github.com-personal:rchamarthy/prezto.git
+[submodule "intellij-colors-solarized"]
+	path = intellij-colors-solarized
+	url = git@github.com-personal:rchamarthy/intellij-colors-solarized.git
